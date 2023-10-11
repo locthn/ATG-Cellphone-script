@@ -1,0 +1,26 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home click on hyperlink cart --> navigate to Page cart",
+        "step 3: At Page cart click on button object --> navigate to Page checkout info",
+        "step 4: At Page checkout info input on input object",
+        "step 5: At Page checkout info click on input object",
+        "step 6: At Page checkout info click on button object --> navigate to Page checkout shipping-address",
+        "step 7: At Page checkout shipping-address click on span object",
+        "step 8: At Page checkout shipping-address input on input object",
+        "step 9: At Page checkout shipping-address input on input object",
+        "step 10: At Page checkout shipping-address input on input object",
+        "step 11: At Page checkout shipping-address input on input object",
+        "step 12: At Page checkout shipping-address input on input object",
+        "step 13: At Page checkout shipping-address input on input object",
+        "step 14: At Page checkout shipping-address input on input object",
+        "step 15: At Page checkout shipping-address input on input object",
+        "step 16: At Page checkout shipping-address input on input object",
+        "step 17: At Page checkout shipping-address input on input object",
+        "step 18: At Page checkout shipping-address input on input object",
+        "step 19: At Page checkout shipping-address input on input object",
+        "step 20: At Page checkout shipping-address input on input object",
+        "step 21: At Page checkout shipping-address click on button object",
+        "step 22: Add visual checkpoint at Page checkout shipping-address"
+    ]
+}

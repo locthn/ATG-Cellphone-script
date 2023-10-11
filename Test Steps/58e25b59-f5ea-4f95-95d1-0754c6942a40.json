@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home click on hyperlink category accessories --> navigate to Page category accessories",
+        "step 3: At Page category accessories click on hyperlink product in wireless charging stand with --> navigate to Page product-in-1-wireless-charging-stand-with-mag",
+        "step 4: At Page product-in-1-wireless-charging-stand-with-mag click on hyperlink category accessories --> navigate to Page category accessories",
+        "step 5: At Page category accessories click on button object",
+        "step 6: Add visual checkpoint at Page category accessories"
+    ]
+}

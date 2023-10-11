@@ -1,10 +1,27 @@
 Flow ID,Test Steps,Flow Priority
-8,"step 1: Navigate to Page home
-step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
-step 3: At Page product apple-iphone-15-new click on hyperlink category apple --> navigate to Page category apple
-step 4: At Page category apple click on hyperlink category google pixel --> navigate to Page category google-pixel
-step 5: Add visual checkpoint at Page category google-pixel",High
-11,"step 1: Navigate to Page home
+12,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink cart --> navigate to Page cart
+step 3: At Page cart click on button object --> navigate to Page checkout info
+step 4: At Page checkout info input on input object
+step 5: At Page checkout info click on input object
+step 6: At Page checkout info click on button object --> navigate to Page checkout shipping-address
+step 7: At Page checkout shipping-address click on span object
+step 8: At Page checkout shipping-address input on input object
+step 9: At Page checkout shipping-address input on input object
+step 10: At Page checkout shipping-address input on input object
+step 11: At Page checkout shipping-address input on input object
+step 12: At Page checkout shipping-address input on input object
+step 13: At Page checkout shipping-address input on input object
+step 14: At Page checkout shipping-address input on input object
+step 15: At Page checkout shipping-address input on input object
+step 16: At Page checkout shipping-address input on input object
+step 17: At Page checkout shipping-address input on input object
+step 18: At Page checkout shipping-address input on input object
+step 19: At Page checkout shipping-address input on input object
+step 20: At Page checkout shipping-address input on input object
+step 21: At Page checkout shipping-address click on button object
+step 22: Add visual checkpoint at Page checkout shipping-address",High
+13,"step 1: Navigate to Page home
 step 2: At Page home click on hyperlink cart --> navigate to Page cart
 step 3: At Page cart click on button object --> navigate to Page checkout info
 step 4: At Page checkout info input on input object
@@ -12,73 +29,82 @@ step 5: At Page checkout info click on input object
 step 6: At Page checkout info click on button object --> navigate to Page checkout shipping-address
 step 7: At Page checkout shipping-address click on span object --> navigate to Page checkout info
 step 8: Add visual checkpoint at Page checkout info",High
-6,"step 1: Navigate to Page home
+14,"step 1: Navigate to Page home
 step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
-step 3: At Page product apple-iphone-15-new click on hyperlink product apple iphone clear case with ma --> navigate to Page product apple-iphone-15-clear-case-with-magsa
-step 4: At Page product apple-iphone-15-clear-case-with-magsa click on button object
-step 5: Add visual checkpoint at Page product apple-iphone-15-clear-case-with-magsa",High
-7,"step 1: Navigate to Page home
+step 3: At Page product apple-iphone-15-new click on hyperlink category apple --> navigate to Page category apple
+step 4: At Page category apple click on hyperlink category google pixel --> navigate to Page category google-pixel
+step 5: At Page category google-pixel click on hyperlink product google pixel pro --> navigate to Page product google-pixel-7-pro
+step 6: Add visual checkpoint at Page product google-pixel-7-pro",High
+10,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
+step 3: At Page product apple-iphone-15-new click on hyperlink category apple --> navigate to Page category apple
+step 4: At Page category apple click on hyperlink category samsung --> navigate to Page category samsung
+step 5: Add visual checkpoint at Page category samsung",High
+9,"step 1: Navigate to Page home
 step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
 step 3: At Page product apple-iphone-15-new click on hyperlink product apple iphone clear case with ma --> navigate to Page product apple-iphone-15-clear-case-with-magsa
 step 4: At Page product apple-iphone-15-clear-case-with-magsa click on hyperlink
-step 5: Add visual checkpoint at Page product apple-iphone-15-clear-case-with-magsa",High
-13,"step 1: Navigate to Page home
-step 2: At Page home click on hyperlink category accessories --> navigate to Page category accessories
-step 3: At Page category accessories click on hyperlink product applew usb c power adapter --> navigate to Page product-in-1-wireless-charging-stand-with-mag
-step 4: At Page product-in-1-wireless-charging-stand-with-mag click on button object
-step 5: At Page product-in-1-wireless-charging-stand-with-mag click on hyperlink cart --> navigate to Page cart
-step 6: Add visual checkpoint at Page cart",High
-10,"step 1: Navigate to Page home
-step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
-step 3: At Page product apple-iphone-15-new click on hyperlink category phone --> navigate to Page category phone
-step 4: At Page category phone click on button object
-step 5: At Page category phone click on button object
-step 6: Add visual checkpoint at Page category phone",High
-9,"step 1: Navigate to Page home
+step 5: Add visual checkpoint at Page product apple-iphone-15-clear-case-with-magsa",Medium
+5,"step 1: Navigate to Page home
 step 2: At Page home click on hyperlink cart --> navigate to Page cart
 step 3: At Page cart click on button object --> navigate to Page checkout payment
-step 4: At Page checkout payment click on span object
-step 5: At Page checkout payment click on button object --> navigate to Page thank-you d6112d7f-5b36-47f0-92b9-2f1cc25888d
-step 6: Add visual checkpoint at Page thank-you d6112d7f-5b36-47f0-92b9-2f1cc25888d",High
-3,"step 1: Navigate to Page home
+step 4: Add visual checkpoint at Page checkout payment",Medium
+8,"step 1: Navigate to Page home
 step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
-step 3: At Page product apple-iphone-15-new click on hyperlink
-step 4: Add visual checkpoint at Page product apple-iphone-15-new",Medium
-14,"step 1: Navigate to Page home
-step 2: At Page home click on hyperlink category accessories --> navigate to Page category accessories
-step 3: At Page category accessories click on hyperlink product applew usb c power adapter --> navigate to Page product apple-20w-usb-c-power-adapter
-step 4: At Page product apple-20w-usb-c-power-adapter click on hyperlink category accessories --> navigate to Page category accessories
-step 5: At Page category accessories click on hyperlink category power and cables --> navigate to Page category power-and-cables
-step 6: At Page category power-and-cables click on hyperlink category chekhly na iphone --> navigate to Page category chekhly-na-iphone
-step 7: At Page category chekhly-na-iphone click on button object
-step 8: Add visual checkpoint at Page category chekhly-na-iphone",Medium
+step 3: At Page product apple-iphone-15-new click on hyperlink product apple iphone clear case with ma --> navigate to Page product apple-iphone-15-clear-case-with-magsa
+step 4: At Page product apple-iphone-15-clear-case-with-magsa click on button object
+step 5: Add visual checkpoint at Page product apple-iphone-15-clear-case-with-magsa",Medium
 4,"step 1: Navigate to Page home
 step 2: At Page home click on hyperlink cart --> navigate to Page cart
 step 3: At Page cart click on hyperlink about --> navigate to Page about
 step 4: Add visual checkpoint at Page about",Medium
-12,"step 1: Navigate to Page home
+15,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
+step 3: At Page product apple-iphone-15-new click on hyperlink category phone --> navigate to Page category phone
+step 4: At Page category phone click on button object
+step 5: At Page category phone click on button object
+step 6: Add visual checkpoint at Page category phone",Medium
+6,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
+step 3: At Page product apple-iphone-15-new click on hyperlink
+step 4: Add visual checkpoint at Page product apple-iphone-15-new",Medium
+17,"step 1: Navigate to Page home
 step 2: At Page home click on hyperlink category accessories --> navigate to Page category accessories
-step 3: At Page category accessories click on hyperlink product applew usb c power adapter --> navigate to Page product apple-20w-usb-c-power-adapter
-step 4: At Page product apple-20w-usb-c-power-adapter click on hyperlink category accessories --> navigate to Page category accessories
-step 5: At Page category accessories click on button object
-step 6: Add visual checkpoint at Page category accessories",Medium
-5,"step 1: Navigate to Page home
+step 3: At Page category accessories click on hyperlink product in wireless charging stand with --> navigate to Page product-in-1-wireless-charging-stand-with-mag
+step 4: At Page product-in-1-wireless-charging-stand-with-mag click on hyperlink category accessories --> navigate to Page category accessories
+step 5: At Page category accessories click on hyperlink category power and cables --> navigate to Page category power-and-cables
+step 6: At Page category power-and-cables click on hyperlink category chekhly na iphone --> navigate to Page category chekhly-na-iphone
+step 7: At Page category chekhly-na-iphone click on button object
+step 8: Add visual checkpoint at Page category chekhly-na-iphone",Medium
+7,"step 1: Navigate to Page home
 step 2: At Page home click on hyperlink category phone --> navigate to Page category phone
 step 3: At Page category phone click on hyperlink product google pixel pro --> navigate to Page product google-pixel-7-pro
-step 4: Add visual checkpoint at Page product google-pixel-7-pro",Medium
-1,"step 1: Navigate to Page home
-step 2: At Page home click on hyperlink product apple iphone plus --> navigate to Page product apple-iphone-15-plus
-step 3: Add visual checkpoint at Page product apple-iphone-15-plus",Low
+step 4: Add visual checkpoint at Page product google-pixel-7-pro",Low
+16,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink category accessories --> navigate to Page category accessories
+step 3: At Page category accessories click on hyperlink product in wireless charging stand with --> navigate to Page product-in-1-wireless-charging-stand-with-mag
+step 4: At Page product-in-1-wireless-charging-stand-with-mag click on hyperlink category accessories --> navigate to Page category accessories
+step 5: At Page category accessories click on button object
+step 6: Add visual checkpoint at Page category accessories",Low
+11,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink category accessories --> navigate to Page category accessories
+step 3: At Page category accessories click on hyperlink product in wireless charging stand with --> navigate to Page product-in-1-wireless-charging-stand-with-mag
+step 4: At Page product-in-1-wireless-charging-stand-with-mag click on button object --> navigate to Page product apple-20w-usb-c-power-adapter
+step 5: Add visual checkpoint at Page product apple-20w-usb-c-power-adapter",Low
 2,"step 1: Navigate to Page home
 step 2: At Page home click on button object
 step 3: Add visual checkpoint at Page home",Low
-17,"step 1: Navigate to Page category samsung
-step 2: Add visual checkpoint at Page category samsung",Trivial
-19,"step 1: Navigate to Page product apple-magsafe-charger
-step 2: Add visual checkpoint at Page product apple-magsafe-charger",Trivial
-16,"step 1: Navigate to Page product case-the-amity-affliction-copy
+3,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink product apple iphone plus --> navigate to Page product apple-iphone-15-plus
+step 3: Add visual checkpoint at Page product apple-iphone-15-plus",Low
+1,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink
+step 3: At Page home click on hyperlink
+step 4: At Page home click on hyperlink
+step 5: At Page home click on hyperlink
+step 6: At Page home click on hyperlink cart --> navigate to Page cart
+step 7: Add visual checkpoint at Page cart",Low
+19,"step 1: Navigate to Page product case-the-amity-affliction-copy
 step 2: Add visual checkpoint at Page product case-the-amity-affliction-copy",Trivial
-18,"step 1: Navigate to Page category chekhly-dlya-samsung
-step 2: Add visual checkpoint at Page category chekhly-dlya-samsung",Trivial
-15,"step 1: Navigate to Page category iphone-15-series
+18,"step 1: Navigate to Page category iphone-15-series
 step 2: Add visual checkpoint at Page category iphone-15-series",Trivial
