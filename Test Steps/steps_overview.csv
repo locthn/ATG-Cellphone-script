@@ -1,0 +1,80 @@
+Flow ID,Test Steps,Flow Priority
+9,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
+step 3: At Page product apple-iphone-15-new click on hyperlink category apple --> navigate to Page category apple
+step 4: At Page category apple click on hyperlink category google pixel --> navigate to Page category google-pixel
+step 5: At Page category google-pixel click on hyperlink product google pixel pro --> navigate to Page product google-pixel-7-pro
+step 6: Add visual checkpoint at Page product google-pixel-7-pro",High
+10,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink cart --> navigate to Page cart
+step 3: At Page cart click on button object --> navigate to Page checkout info
+step 4: At Page checkout info input on input object
+step 5: At Page checkout info click on input object
+step 6: At Page checkout info click on button object --> navigate to Page checkout shipping-address
+step 7: At Page checkout shipping-address click on span object
+step 8: At Page checkout shipping-address click on small object
+step 9: At Page checkout shipping-address click on span object
+step 10: At Page checkout shipping-address input on input object
+step 11: At Page checkout shipping-address input on input object
+step 12: At Page checkout shipping-address input on input object
+step 13: At Page checkout shipping-address input on input object
+step 14: At Page checkout shipping-address input on input object
+step 15: At Page checkout shipping-address input on input object
+step 16: At Page checkout shipping-address input on input object
+step 17: At Page checkout shipping-address input on input object
+step 18: At Page checkout shipping-address click on select object
+step 19: At Page checkout shipping-address click on select object
+step 20: At Page checkout shipping-address input on input object
+step 21: At Page checkout shipping-address click on span object
+step 22: At Page checkout shipping-address input on input object
+step 23: At Page checkout shipping-address input on input object
+step 24: At Page checkout shipping-address input on input object
+step 25: At Page checkout shipping-address input on input object
+step 26: At Page checkout shipping-address input on input object
+step 27: At Page checkout shipping-address input on input object
+step 28: At Page checkout shipping-address input on input object
+step 29: At Page checkout shipping-address input on input object
+step 30: At Page checkout shipping-address click on select object
+step 31: At Page checkout shipping-address click on select object
+step 32: At Page checkout shipping-address click on button object
+step 33: At Page checkout shipping-address click on hyperlink --> navigate to Page cart
+step 34: Add visual checkpoint at Page cart",High
+6,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
+step 3: At Page product apple-iphone-15-new click on hyperlink category phone --> navigate to Page category phone
+step 4: At Page category phone click on hyperlink product google pixel pro --> navigate to Page product google-pixel-7-pro
+step 5: Add visual checkpoint at Page product google-pixel-7-pro",High
+7,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
+step 3: At Page product apple-iphone-15-new click on hyperlink product apple iphone clear case with ma --> navigate to Page product apple-iphone-15-clear-case-with-magsa
+step 4: At Page product apple-iphone-15-clear-case-with-magsa click on button object
+step 5: Add visual checkpoint at Page product apple-iphone-15-clear-case-with-magsa",Medium
+8,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
+step 3: At Page product apple-iphone-15-new click on hyperlink product apple iphone clear case with ma --> navigate to Page product apple-iphone-15-clear-case-with-magsa
+step 4: At Page product apple-iphone-15-clear-case-with-magsa click on hyperlink
+step 5: Add visual checkpoint at Page product apple-iphone-15-clear-case-with-magsa",Medium
+3,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink product apple iphone new --> navigate to Page product apple-iphone-15-new
+step 3: At Page product apple-iphone-15-new click on hyperlink
+step 4: Add visual checkpoint at Page product apple-iphone-15-new",Medium
+4,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink cart --> navigate to Page cart
+step 3: At Page cart click on hyperlink about --> navigate to Page about
+step 4: Add visual checkpoint at Page about",Low
+5,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink category accessories --> navigate to Page category accessories
+step 3: At Page category accessories input on input object
+step 4: At Page category accessories input on input object
+step 5: At Page category accessories click on input object
+step 6: At Page category accessories click on button object
+step 7: At Page category accessories click on hyperlink
+step 8: At Page category accessories click on hyperlink
+step 9: At Page category accessories click on button object
+step 10: Add visual checkpoint at Page category accessories",Low
+1,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink product apple iphone plus --> navigate to Page product apple-iphone-15-plus
+step 3: Add visual checkpoint at Page product apple-iphone-15-plus",Low
+2,"step 1: Navigate to Page home
+step 2: At Page home click on button object
+step 3: Add visual checkpoint at Page home",Low

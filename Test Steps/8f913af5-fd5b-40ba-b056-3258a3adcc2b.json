@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home click on hyperlink cart --> navigate to Page cart",
+        "step 3: At Page cart click on hyperlink about --> navigate to Page about",
+        "step 4: Add visual checkpoint at Page about"
+    ]
+}

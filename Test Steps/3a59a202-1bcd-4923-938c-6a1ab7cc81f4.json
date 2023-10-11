@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home click on hyperlink category accessories --> navigate to Page category accessories",
+        "step 3: At Page category accessories input on input object",
+        "step 4: At Page category accessories input on input object",
+        "step 5: At Page category accessories click on input object",
+        "step 6: At Page category accessories click on button object",
+        "step 7: At Page category accessories click on hyperlink",
+        "step 8: At Page category accessories click on hyperlink",
+        "step 9: At Page category accessories click on button object",
+        "step 10: Add visual checkpoint at Page category accessories"
+    ]
+}
