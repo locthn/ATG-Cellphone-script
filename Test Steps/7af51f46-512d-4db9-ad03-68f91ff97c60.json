@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home click on hyperlink category accessories --> navigate to Page category accessories",
+        "step 3: At Page category accessories click on hyperlink product applew usb c power adapter --> navigate to Page product apple-20w-usb-c-power-adapter",
+        "step 4: At Page product apple-20w-usb-c-power-adapter click on hyperlink category accessories --> navigate to Page category accessories",
+        "step 5: At Page category accessories click on button object",
+        "step 6: Add visual checkpoint at Page category accessories"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home click on hyperlink cart --> navigate to Page cart",
+        "step 3: At Page cart click on button object --> navigate to Page checkout info",
+        "step 4: At Page checkout info input on input object",
+        "step 5: At Page checkout info click on input object",
+        "step 6: At Page checkout info click on button object --> navigate to Page checkout shipping-address",
+        "step 7: At Page checkout shipping-address click on span object --> navigate to Page checkout info",
+        "step 8: Add visual checkpoint at Page checkout info"
+    ]
+}

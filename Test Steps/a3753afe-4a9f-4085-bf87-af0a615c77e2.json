@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home click on hyperlink category accessories --> navigate to Page category accessories",
+        "step 3: At Page category accessories click on hyperlink product applew usb c power adapter --> navigate to Page product apple-20w-usb-c-power-adapter",
+        "step 4: At Page product apple-20w-usb-c-power-adapter click on hyperlink category accessories --> navigate to Page category accessories",
+        "step 5: At Page category accessories click on hyperlink category power and cables --> navigate to Page category power-and-cables",
+        "step 6: At Page category power-and-cables click on hyperlink category chekhly na iphone --> navigate to Page category chekhly-na-iphone",
+        "step 7: At Page category chekhly-na-iphone click on button object",
+        "step 8: Add visual checkpoint at Page category chekhly-na-iphone"
+    ]
+}
